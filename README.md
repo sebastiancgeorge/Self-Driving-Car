@@ -56,7 +56,7 @@ To develop a prototype vision pipeline that enables a self-driving agent to:
 ---
 
 ## 📂 Project Structure
-
+```bash
 self-driving-vision/ 
 │
 ├── data/ # Raw videos and extracted frames 
