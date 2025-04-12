@@ -57,7 +57,8 @@ To develop a prototype vision pipeline that enables a self-driving agent to:
 
 ## 📂 Project Structure
 
-self-driving-vision/ │
+self-driving-vision/ 
+│
 ├── data/ # Raw videos and extracted frames 
 ├── notebooks/ # Dev and visualization notebooks 
 ├── models/ # Pretrained weights 
