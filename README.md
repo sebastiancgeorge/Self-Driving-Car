@@ -68,7 +68,7 @@ self-driving-vision/
 ├── main.py # Main pipeline runner 
 ├── requirements.txt 
 └── README.md
-
+```
 
 ---
 
